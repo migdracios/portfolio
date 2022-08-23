@@ -12,33 +12,32 @@ github : [github.com/migdracios](https://github.com/migdracios)
 ## 🚩projects
 ### 1. AI-Chameleon
 > 세그멘테이션을 활용한 셀피 변환 웹(팀 프로젝트)  
-> 개발 기간 : OO ~ OO  
+> 개발 기간 : 0518 ~ 0524/2022  
 >  
-> 기술 스택 :  
-> Python Flask HTML CSS Javascript
-> [프로젝트 링크](https://github.com/migdracios/ai_chameleon)
+> 기술 스택 :
+> Python Flask HTML CSS Javascript   
+> [✍프로젝트 링크](https://github.com/migdracios/ai_chameleon)
 ---
 ### 2. 혼자서도 잘해요리
-> 한 줄 설명(팀/개인 프로젝트)  
-> 개발 기간 : OO ~ OO  
->  
+> 1인가구 레시피 제공 웹(팀 프로젝트)  
+> 개발 기간 : 0602 ~ 0613/2022  
+>    
 > 기술 스택 :  
->  
-> [프로젝트 링크(개인 포크 저장소)]()
+> Python Django HTML CSS Javascript AWSEC2  
+> [✍프로젝트 링크](https://github.com/migdracios/cook_alone)
 ---
 ### 3. 유전
-> 한 줄 설명(팀/개인 프로젝트)  
-> 개발 기간 : OO ~ OO  
+> 유화변환 모델을 사용한 핀터레스트형 이미지 SNS(팀/개인 프로젝트)  
+> 개발 기간 : 0628 ~ 0705/2022  
 >  
 > 기술 스택 :  
->  
-> [프로젝트 링크(개인 포크 저장소)]()
+> Python Django DjangoRestFramework   
+> [✍프로젝트 링크](https://github.com/migdracios/yujeon_be)
 ---
 ### 4. 거뮤니티
-> 한 줄 설명(팀/개인 프로젝트)  
-> 개발 기간 : OO ~ OO  
+> 초보 개발자 질의응답 커뮤니티 웹(팀 프로젝트)  
+> 개발 기간 : 0708 ~ 0812/2022  
 >  
 > 기술 스택 :  
->  
-> [프로젝트 링크(개인 포크 저장소)]()
----
+> Python, Django, DjangoRestFramework, HTML, CSS, Javascript, Docker, AWS EC2, S3, CloudFront  
+> [✍프로젝트 링크](https://github.com/migdracios/gomunity_be)
