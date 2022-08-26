@@ -1,14 +1,5 @@
 # 황영상 포트폴리오👨‍💻
 
-## 🚩intro
-자기소개  
-
-## 🚩contact
-email : migdracios@gmail.com  
-blog : [velog.io/@migdracios](https://velog.io/@migdracios)  
-github : [github.com/migdracios](https://github.com/migdracios)  
-
-
 ## 🚩projects
 
 ### 1. 거뮤니티
