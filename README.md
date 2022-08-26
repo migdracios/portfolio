@@ -30,7 +30,7 @@
 > 세그멘테이션을 활용한 셀피 변환 웹(팀 프로젝트)  
 > 개발 기간 : 0518 ~ 0524/2022  
 >  
-> 기술 스택 :
+> 기술 스택 :  
 > Python Flask HTML CSS Javascript   
 > [✍프로젝트 링크](https://github.com/migdracios/ai_chameleon)
 
