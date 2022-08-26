@@ -7,7 +7,7 @@
 > 개발 기간 : 0708 ~ 0812/2022  
 >  
 > 기술 스택 :  
-> Python, Django, DjangoRestFramework, HTML, CSS, Javascript, Docker, AWS EC2, S3, CloudFront  
+> **Python, Django, DjangoRestFramework, HTML, CSS, Javascript, Docker, AWS EC2, S3, CloudFront**  
 > [✍프로젝트 링크](https://github.com/migdracios/gomunity_be)
 ---
 ### 2. 유전
@@ -15,7 +15,7 @@
 > 개발 기간 : 0628 ~ 0705/2022  
 >  
 > 기술 스택 :  
-> Python Django DjangoRestFramework   
+> **Python Django DjangoRestFramework**   
 > [✍프로젝트 링크](https://github.com/migdracios/yujeon_be)
 ---
 ### 3. 혼자서도 잘해요리
@@ -23,7 +23,7 @@
 > 개발 기간 : 0602 ~ 0613/2022  
 >    
 > 기술 스택 :  
-> Python Django HTML CSS Javascript AWSEC2  
+> **Python Django HTML CSS Javascript AWSEC2**  
 > [✍프로젝트 링크](https://github.com/migdracios/cook_alone)
 ---
 ### 4. AI-Chameleon
@@ -31,7 +31,7 @@
 > 개발 기간 : 0518 ~ 0524/2022  
 >  
 > 기술 스택 :  
-> Python Flask HTML CSS Javascript   
+> **Python Flask HTML CSS Javascript**   
 > [✍프로젝트 링크](https://github.com/migdracios/ai_chameleon)
 
 
